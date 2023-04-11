@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\Encapsuletion\Encapsuletion\bin\Debug\Encapsuletion.exe.config
+C:\Users\ASUS\source\repos\Encapsuletion\Encapsuletion\bin\Debug\Encapsuletion.exe
+C:\Users\ASUS\source\repos\Encapsuletion\Encapsuletion\bin\Debug\Encapsuletion.pdb
+C:\Users\ASUS\source\repos\Encapsuletion\Encapsuletion\obj\Debug\Encapsuletion.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Encapsuletion\Encapsuletion\obj\Debug\Encapsuletion.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Encapsuletion\Encapsuletion\obj\Debug\Encapsuletion.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Encapsuletion\Encapsuletion\obj\Debug\Encapsuletion.exe
+C:\Users\ASUS\source\repos\Encapsuletion\Encapsuletion\obj\Debug\Encapsuletion.pdb
